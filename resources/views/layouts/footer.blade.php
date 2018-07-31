@@ -6,9 +6,9 @@
 	<div class="row">
 
 		<div class="col-md-4 offset-2">
-			<strong>Contact : danielchristianto77@gmail.com </strong> <br>
+			<strong><i class="far fa-envelope"></i> danielchristianto77@gmail.com </strong> <br>
 			Admin Perpustakaan <br>
-			Copyright @2018
+			<i class="far fa-copyright"> </i>2018
 		</div>
 		<div class="col-md-4 offset-1">
 			<strong>Tailored for you</strong> <br>
